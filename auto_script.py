@@ -5,8 +5,8 @@ import sys
 import re
 
 # --- Configurações (você pode mudar estes valores) ---
-intervalo_criar_arquivo_segundos = 20
-intervalo_git_segundos = 20
+intervalo_criar_arquivo_segundos = 11
+intervalo_git_segundos = 11
 nome_pasta = "arquivos"
 # ----------------------------------------------------
 

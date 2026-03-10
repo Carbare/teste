@@ -1,0 +1,2 @@
+no digite "crontab -e" para acessar o arquivo de configuração do crontab que inicia o tmus toda vez que o sistema reiniciar
+tmux attach-session -t autocommit
